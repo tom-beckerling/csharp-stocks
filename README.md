@@ -7,7 +7,7 @@ The data is displayed on the console for example
 
 ```$ Microsoft (MSFT) $110.1
    Apple (APL) $170.1
-
+```
 
 ## Back End
 A simple http server, that provides stock price model data at a localhost address.
